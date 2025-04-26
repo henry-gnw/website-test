@@ -3,6 +3,11 @@ html {
 }
 h1 {
   color: whitesmoke;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 }
 .first-paragraph,
 #category {
